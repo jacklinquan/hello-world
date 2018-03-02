@@ -1,2 +1,2 @@
 # hello-world
-First repository to try GitHub.
+The first repository to try GitHub.
